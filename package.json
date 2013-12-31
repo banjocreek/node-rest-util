@@ -1,6 +1,6 @@
 {
   "name": "rest-util",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "REST development helper library",
   "main": "index.js",
   "scripts": {
