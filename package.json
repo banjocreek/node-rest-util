@@ -1,0 +1,24 @@
+{
+  "name": "rest-util",
+  "version": "0.0.2",
+  "description": "REST development helper library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "rest",
+    "util",
+    "web"
+  ],
+  "licenses": [
+    {
+      "type": "Apache License, Version 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "author": "Greg Wiley <aztec.rex@jammm.com>"
+}
+
+
