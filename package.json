@@ -18,7 +18,9 @@
       "url": "http://www.apache.org/licenses/LICENSE-2.0"
     }
   ],
-  "author": "Greg Wiley <aztec.rex@jammm.com>"
+  "author": "Greg Wiley <aztec.rex@jammm.com>",
+  "dependencies": {
+    "underscore": "~1.5.2",
+    "q": "~0.9.7"
+  }
 }
-
-
