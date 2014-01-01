@@ -9,7 +9,3 @@
 - selfUrl: the url of a request
 - foreignUrl: build a url to a foreign service
 - hlink: compose a HAL+JSON link hash
-- truth (may be moved to another module): evaluate boolean-like data
-- nstr (may be moved to another module): normalize strings
-
-
