@@ -1,8 +1,9 @@
 /*jslint node: true */
 "use strict";
 
-var liburl  = require('url'),
-    u       = require("underscore");
+var liburl  = require("url"),
+    u       = require("underscore"),
+    errors  = require("./errors");
 
 function up(path) {
     var brk;
@@ -93,4 +94,8 @@ exports.hlink = function (url_s, attrs) {
     }
     return rval;
 };
+
+exports.errors = errors;
+
+
 
